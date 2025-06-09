@@ -3,16 +3,17 @@
     id="text"
     text="Floflly, a poodle, diz: 'Eu estava cuidando do jardim e não vi nada estranho.'"
     color="red"
-    x="10"
+    x="center"
     y="200"
-    font-size="24"
+    font-size="40"
   />
   <agent
     id="back"
     text="Voltar"
-    color="cyan"
+    color="white"
+    animation=""
     x="10"
-    y="400"
+    y="500"
     font-size="20"
     on_click="goToPage('middle')"
   />
