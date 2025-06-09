@@ -1,26 +1,26 @@
 <page id="investiga1" bg_color="black">
   <agent
-    id="title"
+    id="txti1"
     text="O Mistério do Relógio Roubado"
     color="white"
-    x="10"
+    x="100"
     y="50"
     font-size="50"
   />
   <agent
-    id="intro"
+    id="txti2"
     text="Na aldeia dos animais, o relógio da torre sumiu!"
     color="white"
-    x="10"
-    y="140"
-    font-size="24"
+    x="center"
+    y="125"
+    font-size="25"
   />
   <agent
-    id="choose"
+    id="txti3"
     text="Investigue os suspeitos:"
     color="white"
-    x="10"
-    y="180"
-    font-size="28"
+    x="center"
+    y="210"
+    font-size="30"
   />
 </page>
