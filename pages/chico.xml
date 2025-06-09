@@ -8,4 +8,19 @@
     y="center"
     font-size="40"
   />
+  <agent
+    id="textc2"
+    text="Pista 1: Vi George chegando perto do relógio pouco antes de sumir."
+    color="gray"
+    x="center"
+    y="20"
+    font-size="25"
+  />
+  <agent
+    id="textc3"
+    text="Pista 2: Meus gritos assustaram alguém naquela noite."
+    color="gray"
+    x="center"
+    y="480"
+    font-size="25"
 </page>
