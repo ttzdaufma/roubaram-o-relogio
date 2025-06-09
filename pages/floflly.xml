@@ -11,7 +11,7 @@
     id="back"
     text="Voltar"
     color="white"
-    animation=""
+    animation="glitch"
     x="10"
     y="500"
     font-size="20"
