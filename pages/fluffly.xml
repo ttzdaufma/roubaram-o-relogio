@@ -23,5 +23,14 @@
     y="480"
     font-size="25"
   />
-  <agent id="voltar" />
+  <agent
+    id="voltar"
+    text="Voltar"
+    color="white"
+    animation="glitch"
+    x="20"
+    y="500"
+    font-size="25"
+    on_click="goToPage('investiga1')"
+  />
 </page>
