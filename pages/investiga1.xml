@@ -28,7 +28,24 @@
     id="txti4"
     text="Floffly, a Poodle"
     color="red"
-    x="60"
+    x="40"
+    y="300"
+    font-size="30"
+    on_click="goToPage('floffly')"
+  />
+  <agent
+    id="txti5"
+    text="George, o gato"
+    color="orange"
+    x="center"
+    y="300"
+    font-size="30"
+  />
+  <agent
+    id="txti6"
+    text="Chico, o papagaio"
+    color="green"
+    x="550"
     y="300"
     font-size="30"
   />
