@@ -1,13 +1,20 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World"
+    text="Bem vindos ao"
     color="white"
     x="center"
     y="center"
     font-size="70"
   />
-
+  <agent
+    id="texto2"
+    text="Criminal Investigation"
+    color="white"
+    x="120"
+    y="350"
+    font-size="60"
+  />
   <agent
     id="next_page_text"
     text="Proxima Pagina"
