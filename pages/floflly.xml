@@ -1,3 +1,19 @@
-<page id="floflly" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página floflly" color="white" font-size="24" />
+<page id="floflly" bg_image="black.jpg">
+  <agent
+    id="text"
+    text="Floflly, a poodle, diz: 'Eu estava cuidando do jardim e não vi nada estranho.'"
+    color="white"
+    x="10"
+    y="200"
+    font-size="24"
+  />
+  <agent
+    id="back"
+    text="Voltar"
+    color="cyan"
+    x="10"
+    y="400"
+    font-size="20"
+    on_click="goToPage('start')"
+  />
 </page>
