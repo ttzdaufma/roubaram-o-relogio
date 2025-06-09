@@ -3,16 +3,26 @@
     id="teste"
     text="Bem vindos ao"
     color="white"
-    x="50"
+    x="10"
     y="160"
     font-size="70"
   />
   <agent
     id="texto2"
-    text="Criminal Investigation"
+    text="Criminal "
     color="white"
-    x=""
-    y="20
+    animation="glitch"
+    x="10"
+    y="240"
+    font-size="60"
+  />
+  <agent
+    id="texto3"
+    text="Investigation"
+    color="white"
+    animation="glitch"
+    x="10"
+    y="300"
     font-size="60"
   />
   <agent
