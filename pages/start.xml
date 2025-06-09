@@ -10,7 +10,7 @@
   />
   <agent
     id="texto2"
-    text="Criminal "
+    text="Criminal"
     color="black"
     animation="hover-grow"
     x="10"
