@@ -29,8 +29,8 @@
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
-    y="480"
-    x="640"
+    y="10"
+    x="250"
     on_click="goToPage('middle')"
   />
 </page>
