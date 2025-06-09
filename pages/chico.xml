@@ -1,5 +1,4 @@
 <page id="chico" bg_color="black">
-  <agent id="voltar" />
   <agent
     id="textc1"
     text="Chico, o papagaio, diz: 'Eu só queria proteger o relógio, achei que alguém fosse quebrar.'"
@@ -23,4 +22,5 @@
     x="center"
     y="480"
     font-size="25"
+  />
 </page>
