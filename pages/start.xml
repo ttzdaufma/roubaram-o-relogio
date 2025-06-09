@@ -1,9 +1,9 @@
-<page id="start" bg_image="cemetery-arrowsign.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="droopy.jpg" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
     text="Bem vindos ao"
     color="white"
-    x="center"
+    x=
     y="160"
     font-size="70"
   />
@@ -11,8 +11,8 @@
     id="texto2"
     text="Criminal Investigation"
     color="white"
-    x="140"
-    y="350"
+    x=""
+    y="20
     font-size="60"
   />
   <agent
