@@ -1,7 +1,7 @@
 <page id="floflly" bg_image="preto.png">
   <agent
     id="text"
-    text="Floflly, a poodle, diz: 'Eu estava cuidando do jardim e não vi nada estranho.'"
+    text="Floflly, a poodle, diz: 'Eu estava cuidando do jardim e não vi nada estranho. '"
     color="red"
     x="center"
     y="200"
@@ -12,9 +12,9 @@
     text="Voltar"
     color="white"
     animation="glitch"
-    x="10"
+    x="20"
     y="500"
-    font-size="20"
+    font-size="25"
     on_click="goToPage('middle')"
   />
 </page>
