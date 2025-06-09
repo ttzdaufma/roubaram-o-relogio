@@ -27,10 +27,12 @@
   />
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="10"
-    x="250"
+    text="Começar"
+    color="black"
+    animation="hover-grow"
+    y="400"
+    x="10"
     on_click="goToPage('middle')"
+    font-size="20"
   />
 </page>
