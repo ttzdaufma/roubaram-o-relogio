@@ -31,7 +31,7 @@
     x="40"
     y="300"
     font-size="30"
-    on_click="goToPage('floffly')"
+    on_click="goToPage('fluffly')"
   />
   <agent
     id="txti5"
