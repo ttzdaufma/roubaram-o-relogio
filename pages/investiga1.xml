@@ -1,3 +1,39 @@
 <page id="investiga1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página investiga1" color="white" font-size="24" />
+  <agent
+    id="texto1i1"
+    text="Bem vindos ao"
+    color="white"
+    animation="hover-grow"
+    x="10"
+    y="160"
+    font-size="65"
+  />
+  <agent
+    id="texto2i1"
+    text="Criminal"
+    color="black"
+    animation="hover-grow"
+    x="10"
+    y="235"
+    font-size="60"
+  />
+  <agent
+    id="texto3i1"
+    text="Investigation"
+    color="white"
+    animation="hover-grow"
+    x="10"
+    y="300"
+    font-size="60"
+  />
+  <agent
+    id="texto4i1"
+    text="Inicie a investigação"
+    color="red"
+    animation="glitch"
+    y="400"
+    x="10"
+    on_click="goToPage('middle')"
+    font-size="20"
+  />
 </page>
