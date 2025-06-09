@@ -1,3 +1,3 @@
 <page id="george" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página george" color="white" font-size="24" />
+  <agent id="voltar" />
 </page>
