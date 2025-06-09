@@ -12,7 +12,7 @@
     text="Pista 1: Pegadas perto da torre que não são de cachorro."
     color="gray"
     x="center"
-    y="480"
+    y="20"
     font-size="25"
   />
   <agent
@@ -20,17 +20,8 @@
     text="Pista 2: Um cheiro estranho que não reconheço."
     color="gray"
     x="center"
-    y="520"
+    y="480"
     font-size="25"
   />
-  <agent
-    id="voltar"
-    text="Voltar"
-    color="white"
-    animation="glitch"
-    x="20"
-    y="500"
-    font-size="25"
-    on_click="goToPage('middle')"
-  />
+  <agent id="voltar" />
 </page>
