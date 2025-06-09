@@ -1,7 +1,7 @@
-<page id="floffly" bg_image="preto.png">
+<page id="fluffy" bg_image="preto.png">
   <agent
     id="textf1"
-    text="Floflly, a poodle, diz: Eu estava no quintal, mas ouvi barulhos estranhos perto da torre.'"
+    text="Fluffly, a poodle, diz: Eu estava no quintal, mas ouvi barulhos estranhos perto da torre.'"
     color="red"
     x="center"
     y="center"
