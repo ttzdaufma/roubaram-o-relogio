@@ -1,7 +1,14 @@
-<page id="start" bg_image="droopy.jpg" bg_music="osts-vilo.mp3">
-  <agent id="ts1 vindos ao" color="white" x="center" y="160" font-size="70" />
+<page id="start" bg_image="cemetery-arrowsign.png" bg_music="osts-vilo.mp3">
   <agent
-    id="ts2"
+    id="teste"
+    text="Bem vindos ao"
+    color="white"
+    x="center"
+    y="160"
+    font-size="70"
+  />
+  <agent
+    id="texto2"
     text="Criminal Investigation"
     color="white"
     x="140"
