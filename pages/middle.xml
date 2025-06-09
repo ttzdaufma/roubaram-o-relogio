@@ -15,7 +15,7 @@
     color="red"
     y="480"
     x="640"
-    on_click="goToPage('investiga1')"
+    on_click="goToPage('investiga2')"
   />
   <agent
     id="textom3"
@@ -24,6 +24,6 @@
     color="Red"
     y="480"
     x="100"
-    on_click="goToPage('investiga2')"
+    on_click="goToPage('investiga1')"
   />
 </page>
