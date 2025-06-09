@@ -1,14 +1,7 @@
 <page id="start" bg_image="droopy.jpg" bg_music="osts-vilo.mp3">
+  <agent id="ts1 vindos ao" color="white" x="center" y="160" font-size="70" />
   <agent
-    id="teste"
-    text="Bem vindos ao"
-    color="white"
-    x="center"
-    y="160"
-    font-size="70"
-  />
-  <agent
-    id="texto2"
+    id="ts2"
     text="Criminal Investigation"
     color="white"
     x="140"
