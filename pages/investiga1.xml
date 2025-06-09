@@ -1,39 +1,26 @@
 <page id="investiga1" bg_color="black">
   <agent
-    id="texto1i1"
-    text="Bem vindos ao"
+    id="title"
+    text="O Mistério do Relógio Roubado"
     color="white"
-    animation="hover-grow"
     x="10"
-    y="160"
-    font-size="65"
+    y="50"
+    font-size="50"
   />
   <agent
-    id="texto2i1"
-    text="Criminal"
-    color="black"
-    animation="hover-grow"
-    x="10"
-    y="235"
-    font-size="60"
-  />
-  <agent
-    id="texto3i1"
-    text="Investigation"
+    id="intro"
+    text="Na aldeia dos animais, o relógio da torre sumiu!"
     color="white"
-    animation="hover-grow"
     x="10"
-    y="300"
-    font-size="60"
+    y="140"
+    font-size="24"
   />
   <agent
-    id="texto4i1"
-    text="Inicie a investigação"
-    color="red"
-    animation="glitch"
-    y="400"
+    id="choose"
+    text="Investigue os suspeitos:"
+    color="white"
     x="10"
-    on_click="goToPage('middle')"
-    font-size="20"
+    y="180"
+    font-size="28"
   />
 </page>
