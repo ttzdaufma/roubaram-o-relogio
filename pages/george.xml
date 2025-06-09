@@ -1,3 +1,26 @@
 <page id="george" bg_color="black">
-  <agent id="voltar" />
+  <agent
+    id="textog1"
+    text="George, o gato, diz: 'Eu estava correndo pela aldeia quando achei o relógio escondido num arbusto.'"
+    color="red"
+    x="center"
+    y="center"
+    font-size="40"
+  />
+  <agent
+    id="textg2"
+    text="Pista 1: O relógio tem um arranhão recente."
+    color="gray"
+    x="center"
+    y="20"
+    font-size="25"
+  />
+  <agent
+    id="textg3"
+    text="Pista 2: George tem uma coleira nova misteriosa."
+    color="gray"
+    x="center"
+    y="480"
+    font-size="25"
+  />
 </page>
