@@ -1,6 +1,6 @@
 <page id="start" bg_image="droopy.jpg" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
+    id="texto1s"
     text="Bem vindos ao"
     color="white"
     animation="hover-grow"
@@ -9,7 +9,7 @@
     font-size="65"
   />
   <agent
-    id="texto2"
+    id="texto2s"
     text="Criminal"
     color="black"
     animation="hover-grow"
@@ -18,7 +18,7 @@
     font-size="60"
   />
   <agent
-    id="texto3"
+    id="texto3s"
     text="Investigation"
     color="white"
     animation="hover-grow"
@@ -27,7 +27,7 @@
     font-size="60"
   />
   <agent
-    id="next_page_text"
+    id="texto4s"
     text="Inicie a investigação"
     color="red"
     animation="glitch"
