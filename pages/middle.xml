@@ -3,25 +3,26 @@
     id="textom1"
     text="Qual mistério deseja investigar?"
     color="white"
-    x=""
+    x="12"
     y="center"
     font-size="70"
+    animation="hover-grow"
   />
 
   <agent
     id="textom2"
-    text="Proxima Pagina"
-    animation="glitch"
+    text="Investigação 2"
+    animation="hover-glow"
+    color="red"
     y="480"
     x="640"
-    on_click="goToPage('ending')"
   />
   <agent
     id="textom3"
-    text="Proxima Pagina"
-    animation="glitch"
+    text="Investigação 1"
+    animation="hover-glow"
+    color="Red"
     y="480"
-    x="640"
-    on_click="goToPage('ending')"
+    x="100"
   />
 </page>
