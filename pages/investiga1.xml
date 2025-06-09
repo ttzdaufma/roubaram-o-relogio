@@ -12,7 +12,7 @@
     text="Na aldeia dos animais, o relógio da torre sumiu!"
     color="white"
     x="center"
-    y="125"
+    y="130"
     font-size="25"
   />
   <agent
@@ -23,4 +23,12 @@
     y="210"
     font-size="30"
   />
+  <agent
+    id="txti4"
+    text="Floffly, a Poodle"
+    color="red"
+    x="60"
+    y="300"
+    font-size="30"
+    />
 </page>
