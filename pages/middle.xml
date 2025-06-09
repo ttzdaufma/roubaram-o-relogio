@@ -3,10 +3,9 @@
     id="textom1"
     text="Qual mistério deseja investigar?"
     color="white"
-    x="12"
+    x=""
     y="center"
     font-size="70"
-    animation="hover-grow"
   />
 
   <agent
