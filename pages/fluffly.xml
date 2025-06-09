@@ -8,6 +8,22 @@
     font-size="40"
   />
   <agent
+    id="textf2"
+    text="Pista 1: Pegadas perto da torre que não são de cachorro."
+    color="gray"
+    x="center"
+    y="480"
+    font-size="25"
+  />
+  <agent
+    id="textf3"
+    text="Pista 2: Um cheiro estranho que não reconheço."
+    color="gray"
+    x="center"
+    y="520"
+    font-size="25"
+  />
+  <agent
     id="voltar"
     text="Voltar"
     color="white"
