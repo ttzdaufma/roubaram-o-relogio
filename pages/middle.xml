@@ -1,4 +1,4 @@
-<page id="middle" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="middle" bg_image="black.png" bg_music="osts-vilo.mp3">
   <agent
     id="textom1"
     text="Qual mistério deseja investigar?"
