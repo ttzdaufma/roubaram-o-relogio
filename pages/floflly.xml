@@ -14,6 +14,6 @@
     x="10"
     y="400"
     font-size="20"
-    on_click="goToPage('start')"
+    on_click="goToPage('middle')"
   />
 </page>
