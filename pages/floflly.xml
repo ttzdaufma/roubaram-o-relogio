@@ -1,8 +1,8 @@
-<page id="floflly" bg_image="black.jpg">
+<page id="floflly" bg_image="preto.png">
   <agent
     id="text"
     text="Floflly, a poodle, diz: 'Eu estava cuidando do jardim e não vi nada estranho.'"
-    color="white"
+    color="red"
     x="10"
     y="200"
     font-size="24"
