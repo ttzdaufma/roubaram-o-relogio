@@ -7,4 +7,14 @@
     y="center"
     font-size="40"
   />
+  <agent
+    id="voltar1"
+    text="Voltar"
+    color="white"
+    animation="glitch"
+    x="20"
+    y="500"
+    font-size="25"
+    on_click="goToPage('ending')"
+  />
 </page>
