@@ -21,7 +21,7 @@
     id="textov3"
     text="George, o gato"
     color="orange"
-    x="center"
+    x="300"
     y="300"
     font-size="30"
     on_click="goToPage('george1')"
