@@ -1,3 +1,10 @@
 <page id="chico1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página chico1" color="white" font-size="24" />
+  <agent
+    id="textc1"
+    text="Chico, o papagaio, não é o culpado...'"
+    color="red"
+    x="center"
+    y="center"
+    font-size="40"
+  />
 </page>
