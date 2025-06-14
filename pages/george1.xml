@@ -9,7 +9,7 @@
   />
   <agent
     id="voltar1"
-    text="Voltar"
+    text="Fim"
     color="white"
     animation="glitch"
     x="20"
