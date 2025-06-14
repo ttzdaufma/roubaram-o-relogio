@@ -1,7 +1,7 @@
 <page id="ending" bg_image="preto.png">
   <agent
     id="teste"
-    text="Parabéns,você advinhou o criminoso e completou o desafio!"
+    text="Parabéns, você advinhou o criminoso e completou o desafio!"
     color="white"
     x=""
     y="center"
