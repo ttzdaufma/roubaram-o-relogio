@@ -15,7 +15,7 @@
     y="300"
     font-size="30"
     on_click="goToPage('fluffly1')"
-    animation="hover-glow"
+    animation="click-squish"
   />
   <agent
     id="textov3"
@@ -25,7 +25,7 @@
     y="300"
     font-size="30"
     on_click="goToPage('george1')"
-    animation="hover-glow"
+    animation="click-squish"
   />
   <agent
     id="textov4"
@@ -35,6 +35,6 @@
     y="300"
     font-size="30"
     on_click="goToPage('chico1')"
-    animation="hover-glow"S
+    animation="click-squish"
   />
 </page>
