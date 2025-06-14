@@ -5,12 +5,11 @@
   <start />
   <middle />
   <investiga1 />
-  <page id= "vote1"/>
-  <page id= "fluffly" />
-  <page id= "george" />
-  <page id= "chico" />
-  <page id= "fluffly1" />
-  <page id= "george1" />
-  <page id= "chico1" />
-  <page id= "ending" />
+  <fluffly />
+  <george />
+  <chico />
+  <fluffly1 />
+  <george1 />
+  <chico1 />
+  <ending />
 </fable>
