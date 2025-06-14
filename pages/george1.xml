@@ -1,7 +1,7 @@
 <page id="george1" bg_color="black">
   <agent
     id="textge1"
-    text="George, o cachorro, foi o culpado!"
+    text="George, o gato, foi o culpado!"
     color="red"
     x="center"
     y="center"
