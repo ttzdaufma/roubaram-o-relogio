@@ -13,7 +13,7 @@
     animation="hover-glow"
     color="Red"
     y="300"
-    x="300"
+    x="400"
     on_click="goToPage('investiga1')"
   />
 </page>
