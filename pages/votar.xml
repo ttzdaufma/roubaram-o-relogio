@@ -1,3 +1,38 @@
 <page id="votar" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página votar" color="white" font-size="24" />
+  <agent
+    id="textov1"
+    text="Vote nos suspeitos:"
+    color="white"
+    x="center"
+    y="210"
+    font-size="30"
+  />
+  <agent
+    id="textov2"
+    text="Fluffly, a Poodle"
+    color="red"
+    x="40"
+    y="300"
+    font-size="30"
+    on_click="goToPage('fluffly1')"
+    animation="hover-glow"
+  />
+  <agent
+    id="textov3"
+    text="George, o gato"
+    color="orange"
+    x="center"
+    y="300"
+    font-size="30"
+    on_click="goToPage('george1')"
+  />
+  <agent
+    id="textov4"
+    text="Chico, o papagaio"
+    color="green"
+    x="550"
+    y="300"
+    font-size="30"
+    on_click="goToPage('chico1')"
+  />
 </page>
