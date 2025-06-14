@@ -25,6 +25,7 @@
     y="300"
     font-size="30"
     on_click="goToPage('george1')"
+    animation="hover-glow"
   />
   <agent
     id="textov4"
@@ -34,5 +35,6 @@
     y="300"
     font-size="30"
     on_click="goToPage('chico1')"
+    animation="hover-glow"S
   />
 </page>
