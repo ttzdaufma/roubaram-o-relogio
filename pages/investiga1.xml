@@ -55,7 +55,7 @@
     id="txti7"
     text="Vote no culpado!"
     color="white"
-    x="center"
+    x="300"
     y="400"
     animation="hover-grow"
     font-size="30"
