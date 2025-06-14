@@ -1,4 +1,4 @@
-<page id="middle" bg_image="preto.png" bg_music="osts-vilo.mp3">
+<page id="middle" bg_image="preto.png">
   <agent
     id="textom1"
     text="Escolha seu mistério investigativo!"
