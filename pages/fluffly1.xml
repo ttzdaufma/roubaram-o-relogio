@@ -1,0 +1,3 @@
+<page id="fluffly1" bg_color="black">
+  <agent id="titulo" x="center" y="center" text="Página fluffly1" color="white" font-size="24" />
+</page>
