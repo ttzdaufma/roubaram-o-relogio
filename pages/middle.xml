@@ -1,29 +1,19 @@
 <page id="middle" bg_image="preto.png" bg_music="osts-vilo.mp3">
   <agent
     id="textom1"
-    text="Qual mistério deseja investigar?"
+    text="Escolha seu mistério investigativo!"
     color="white"
     x=""
     y="center"
     font-size="70"
-  />
-
-  <agent
-    id="textom2"
-    text="Investigação 2"
-    animation="hover-glow"
-    color="red"
-    y="480"
-    x="640"
-    on_click="goToPage('investiga2')"
   />
   <agent
     id="textom3"
     text="Investigação 1"
     animation="hover-glow"
     color="Red"
-    y="480"
-    x="100"
+    y="300"
+    x="300"
     on_click="goToPage('investiga1')"
   />
 </page>
