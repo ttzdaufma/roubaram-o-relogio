@@ -1,4 +1,4 @@
-<page id="ending" bg_image="preto.png" bg_music="osts-vilo.mp3">
+<page id="ending" bg_image="preto.png">
   <agent
     id="teste"
     text="Hello World Ending"
