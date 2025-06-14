@@ -51,4 +51,14 @@
     font-size="30"
     on_click="goToPage('chico')"
   />
+  <agent
+    id="txti7"
+    text="Vote no culpado!"
+    color="white"
+    x="center"
+    y="400"
+    animation="hover-grow"
+    font-size="30"
+    on_click="goToPage('vote1')"
+  />
 </page>
