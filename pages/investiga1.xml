@@ -59,6 +59,6 @@
     y="400"
     animation="hover-grow"
     font-size="30"
-    on_click="goToPage('vote1')"
+    on_click="goToPage('votar')"
   />
 </page>
