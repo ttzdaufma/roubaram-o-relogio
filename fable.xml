@@ -2,9 +2,9 @@
   <config font-family="Schoolbell" />
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-  <page id="start" />
-  <page id="middle" />
-  <page id="investiga1" />
+  <start />
+  <middle />
+  <investiga1 />
   <page id="vote1" />
   <page id="fluffly" />
   <page id="george" />
