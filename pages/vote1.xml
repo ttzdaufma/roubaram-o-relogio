@@ -1,3 +1,30 @@
-<page id="vote1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página vote1" color="white" font-size="24" />
-</page>
+<page id="vote1" bg_color="black"> 
+  <agent
+    id="txtv1"
+    text="Fluffly, a Poodle"
+    color="red"
+    x="40"
+    y="300"
+    font-size="30"
+    on_click="goToPage('fluffly')"
+  />
+  <agent
+    id="txtv2"
+    text="George, o gato"
+    color="orange"
+    x="center"
+    y="300"
+    font-size="30"
+    on_click="goToPage('george')"
+  />
+  <agent
+    id="txtv3"
+    text="Chico, o papagaio"
+    color="green"
+    x="550"
+    y="300"
+    font-size="30"
+    on_click="goToPage('chico')"
+  />
+  
+<page>
