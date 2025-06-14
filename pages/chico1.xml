@@ -1,6 +1,6 @@
 <page id="chico1" bg_color="black">
   <agent
-    id="textc1"
+    id="textcc1"
     text="Chico, o papagaio, não é o culpado...'"
     color="red"
     x="center"
