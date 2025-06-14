@@ -1,4 +1,4 @@
-<page id="start" bg_image="droopy.jpg" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="droopy.jpg">
   <agent
     id="texto1s"
     text="Bem vindos ao"
